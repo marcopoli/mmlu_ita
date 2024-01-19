@@ -1,0 +1,5 @@
+"In un latch SR costruito da porte NOR, quale condizione non è consentita?","S=0, R=0","S=0, R=1","S=1, R=0","S=1, R=1",D
+"In una macchina a corrente continua con avvolgimento a due poli, la resistenza di un conduttore è di 2Ω e il numero totale di conduttori è 100. Trovare la resistenza totale",200Ω,100Ω,50Ω,10Ω,C
+"La bobina di un metro a bobina mobile ha 100 spire, è lunga 40 mm e larga 30 mm. La coppia di controllo è di 240*10-6 N-m a scala completa. Se la densità di flusso magnetico è di 1 Wb/m2, quale è il campo di misura del metro?",1 mA.,2 mA.,3 mA.,4 mA.,B
+"Due conduttori lunghi paralleli trasportano 100 A. Se i conduttori sono separati da 20 mm, la forza per metro di lunghezza di ogni conduttore sarà",100 N.,"0,1 N.",1 N.,"0,01 N.",B
+Una bacchetta puntiforme ha una intensità di campo magnetico di 4π * 10^-4 weber. La forza in newton su una bacchetta puntiforme di 4π * 1.5 * 10^-4 weber posta a 10 cm di distanza sarà,15 N.,20 N.,7.5 N.,3.75 N.,A

@@ -1,0 +1,8 @@
+"Sia V l'insieme di tutti i polinomi reali p(x). Siano T e S trasformazioni definite su V da T:p(x) -> xp(x) e S:p(x) -> p'(x) = d/dx p(x), e interpretare (ST)(p(x)) come S(T(p(x))). Quale delle seguenti affermazioni è vera?",ST = 0,ST = T,ST = TS,ST - TS è una mappa identità di V in sé.,D
+"Una cisterna contiene inizialmente una soluzione salina di 3 grammi di sale disciolti in 100 litri di acqua. Una soluzione salina contenente 0,02 grammi di sale per litro di acqua viene spruzzata nella cisterna a un tasso di 4 litri al minuto. La soluzione spruzzata viene continuamente mescolata con la soluzione salina nella cisterna e la miscela fuoriesce dalla cisterna a un tasso di 4 litri al minuto. Se il miscelamento è istantaneo, quanti grammi di sale ci sono nella cisterna dopo che sono trascorsi 100 minuti?",2,2 - e^-2,2 + e^-2,2 + e^-4,D
+"Sia A una matrice reale 2x2. Quali delle seguenti affermazioni devono essere vere?
+I. Tutte le voci di A^2 sono non negative.
+II. Il determinante di A^2 è non negativo.
+III. Se A ha due autovalori distinti, allora A^2 ha due autovalori distinti.",Solo I,Solo II,Solo III,Solo II e III,B
+"Supponiamo che f(1 + x) = f(x) per ogni x reale. Se f è un polinomio e f(5) = 11, allora f(15/2)",-11,0,11,33/2,C
+"Sia A l'insieme di tutte le coppie ordinate di numeri interi (m, n) tali che 7m + 12n = 22. Qual è il numero negativo più grande nell'insieme B = {m + n : (m, n) \in A}?",-5,-4,-3,-2,B

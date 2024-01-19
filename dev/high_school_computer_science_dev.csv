@@ -1,0 +1,39 @@
+Qual è un esempio di utilizzo di un dispositivo su Internet delle cose (IoT)?,Un'auto avvisa il conducente che sta per colpire un oggetto.,Un escursionista usa un orologio GPS per tenere traccia della sua posizione.,Un frigorifero ordina latte da un servizio di consegna online quando il latte nel frigorifero sta per finire.,Un corridore usa un orologio con sensori ottici per monitorare il suo battito cardiaco.,C
+"Molti browser Web consentono agli utenti di aprire finestre anonime. Durante una sessione di navigazione in una finestra anonima, il browser non registra una cronologia di navigazione né una lista dei file scaricati. Quando si esce dalla finestra anonima, i cookie creati durante la sessione vengono eliminati. Quale delle seguenti affermazioni sulla sessione di navigazione in una finestra anonima è vera?","Le attività di un utente che naviga in una finestra anonima non saranno visibili alle persone che monitorano la rete dell'utente, come l'amministratore di sistema.",Gli oggetti inseriti nel carrello della spesa di un negozio online per un futuro acquisto durante la sessione di navigazione anonima non saranno salvati sul computer dell'utente.,Un utente non potrà effettuare l'accesso a account di posta elettronica o social media durante la sessione di navigazione anonima.,Un utente che naviga in una finestra anonima sarà protetto dai virus lanciati da qualsiasi sito web visitato o file scaricato.,B
+"Qual è l'output di ""abc""[::-1] in Python 3?",Errore,abc,cba,c,C
+"Nel programma seguente, il valore iniziale di x è 5 e il valore iniziale di y è 10.
+ SE (X < O)
+ {
+ MOSTRA (""Foxtrot"")
+ }
+ ALTRIMENTI
+ {
+ SE (X > y)
+ {
+   MOSTRA (""Hotel"")
+ }
+ ALTRIMENTI 
+ {
+   SE (y > O)
+   {
+   MOSTRA (""November"")
+   }
+   ALTRIMENTI
+   {
+   MOSTRA (""Yankee"")
+   }
+ }
+ }
+ 
+ Cosa viene visualizzato come risultato dell'esecuzione del programma?",Foxtrot,Hotel,November,Yankee,C
+"Una lista di numeri ha n elementi, indicizzati da 1 a n. L'algoritmo seguente è stato progettato per mostrare il numero di elementi nella lista che hanno un valore maggiore di 100. L'algoritmo utilizza le variabili conteggio e posizione. Le fasi 3 e 4 mancano.
+ Fase 1: Imposta il conteggio a 0 e la posizione a 1.
+ Fase 2: Se il valore dell'elemento all'indice di posizione è maggiore di 100, aumenta il valore del conteggio di 1.
+ Fase 3: (fase mancante)
+ Fase 4: (fase mancante)
+ Fase 5: Mostra il valore del conteggio.
+ Quale delle seguenti opzioni potrebbe sostituire le fasi 3 e 4 in modo che l'algoritmo funzioni come previsto?","Fase 3: Aumenta il valore di posizione di 1.
+ Fase 4: Ripeti le fasi 2 e 3 fino a quando il valore del conteggio è maggiore di 100.","Fase 3: Aumenta il valore di posizione di 1.
+ Fase 4: Ripeti le fasi 2 e 3 finché il valore di posizione non è maggiore di n.","Fase 3: Ripeti la fase 2 fino a quando il valore del conteggio è maggiore di 100.
+ Fase 4: Aumenta il valore di posizione di 1.","Fase 3: Ripeti la fase 2 fino a quando il valore di posizione non è maggiore di n.
+ Fase 4: Aumenta il valore del conteggio di 1.",D

@@ -1,0 +1,10 @@
+Seleziona la migliore traduzione in logica predicativa: Nessuna persona guida su Marte.,~Pd,(∀x)(Px ∨ ~Dx),(∀x)(Px ⊃ ~Dx),~Dp,C
+Seleziona la migliore traduzione in logica predicativa. George prende in prestito il tagliaerba di Hector. (g: George; h: Hector; l: tagliaerba di Hector; Bxyx: x prende in prestito y da z),Blgh,Bhlg,Bglh,Bghl,C
+"Seleziona la migliore interpretazione in inglese degli argomenti dati in logica predicativa.
+Dm
+(∀x)(Wx ⊃ ~Dx)
+(∀x)Wx ∨ Ag	/ (∃x)Ax",Marina è una ballerina. Alcuni deboli non sono ballerini. O tutto è debole o Georgia gioca a pallavolo. Quindi qualcosa gioca a pallavolo.,Marina è una ballerina. Nessun debole è una ballerina. Tutto è o debole o gioca a pallavolo. Quindi qualcosa gioca a pallavolo.,Marina è una ballerina. Alcuni deboli non sono ballerini. Tutto è o debole o gioca a pallavolo. Quindi qualcosa gioca a pallavolo.,Marina è una ballerina. Nessun debole è una ballerina. O tutto è debole o Georgia gioca a pallavolo. Quindi qualcosa gioca a pallavolo.,D
+"Costruisci una tabella di verità completa per le seguenti coppie di proposizioni. Quindi, usando le tabelle di verità, determina se le dichiarazioni sono logicamente equivalenti o contraddittorie. Se nessuna delle due, determina se sono coerenti o incoerenti. Giustifica le tue risposte.
+E ⊃ (F · E) e ~E · F",Logicamente equivalenti,Contraddittorie,"Né logicamente equivalenti né contraddittorie, ma coerenti",Incoerenti,C
+"Quale delle formule PL seguenti è la migliore simbolizzazione della seguente frase?
+Le tartarughe vivono a lungo e sono creature felici, a meno che non siano ferite.",(L • H) ≡ I,(L • H) ∨ I,L • (H ∨ I),L • (H ⊃ R),B

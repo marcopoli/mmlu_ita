@@ -1,0 +1,295 @@
+"Cosa significa x << 3 in Python 3, se x = 1?",1,3,8,16,C
+"In Python 3, quale delle seguenti funzioni converte una stringa in un intero in Python?","int(x [,base])","long(x [,base] )",float(x),str(x),A
+Quale delle seguenti descrive meglio come un file viene inviato a un utente dopo che questi ha inserito l'indirizzo Web nel browser e ha richiesto il file al server Web?,Il file viene suddiviso in pacchetti per la trasmissione. I pacchetti devono essere riordinati al momento della ricezione.,Il file viene suddiviso in pacchetti per la trasmissione. Il browser dell'utente deve richiedere ciascun pacchetto in ordine fino a quando tutti i pacchetti non sono stati ricevuti.,"Il server tenta di connettersi direttamente al computer dell'utente. Se la connessione riesce, l'intero file viene inviato. Se la connessione non riesce, un messaggio di errore viene inviato all'utente.","Il server tenta ripetutamente di connettersi direttamente al computer dell'utente fino a quando non viene stabilita una connessione. Una volta stabilita la connessione, l'intero file viene inviato.",A
+"Le immagini digitali sono spesso rappresentate dai valori di rosso, verde e blu (una tripletta RGB) di ogni singolo pixel presente nell'immagine. Un fotografo sta manipolando un'immagine digitale e sovrascrivendo l'immagine originale. Quale delle seguenti descrive una trasformazione lossless dell'immagine digitale?",Comprimere l'immagine in modo che possa perdere informazioni ma subirà solo una piccola perdita di qualità dell'immagine.,"Creare la scala di grigi di un'immagine mediando le quantità di rosso, verde e blu in ogni pixel e assegnando questo nuovo valore al pixel corrispondente nella nuova immagine. Il nuovo valore di ogni pixel rappresenta una tonalità di grigio che va dal bianco al nero.",Creare il negativo di un'immagine creando una nuova tripletta RGB per ogni pixel in cui ogni valore viene calcolato sottraendo il valore originale da 255. Il negativo di un'immagine è invertito rispetto all'originale; le aree chiare appaiono scure e i colori sono invertiti.,Modificare parte dell'immagine prendendo i pixel in una parte dell'immagine e copiandoli sui pixel in un'altra parte dell'immagine.,C
+Un programmatore sta scrivendo un programma che deve essere in grado di elaborare grandi quantità di dati. Quale delle seguenti considerazioni è meno probabile che influisca sulla capacità del programma di elaborare set di dati più grandi?,Quanto tempo impiega il programma per eseguire,Quante istruzioni di programmazione il programma contiene,Quanta memoria richiede il programma durante l'esecuzione,Quanto spazio di archiviazione richiede il programma durante l'esecuzione,B
+"Supponiamo che i caratteri 0, 1, . . . , 8, 9, A, B, C, D, E, F siano utilizzati per rappresentare un numero esadecimale (base 16). Qui A = 10, B = 11, . . . ,F = 15. Qual è il più grande numero intero in base 10 che può essere rappresentato con un numero esadecimale a due cifre, come 14 o 3A?",32,225,255,256,C
+"Un grande set di dati contiene informazioni su tutti gli studenti che si specializzano in informatica in college in tutto gli Stati Uniti. Il set di dati contiene le seguenti informazioni su ogni studente: 
+   ° Genere dello studente 
+   ° Stato in cui lo studente frequenta il college 
+   ° Punteggio di grado dello studente su una scala da 4.0 
+
+Quali delle seguenti domande potrebbe essere risposta analizzando solo le informazioni nel set di dati?",Gli studenti che si specializzano in informatica tendono ad avere una media di voti più alta rispetto agli studenti che si specializzano in altre materie?,Quanti stati hanno una percentuale più alta di studentesse che studiano informatica rispetto agli studenti maschi che studiano informatica nel college di quello stato?,Qual è la percentuale di studenti che frequentano il college in uno specifico stato e si specializzano in informatica?,Quale college ha il numero più alto di studenti specializzati in informatica?,B
+"Il segmento di codice qui sotto utilizza la procedura IsFound (lista, elemento), che restituisce vero se l'elemento appare nella lista e falso altrimenti. La lista resultList è inizialmente vuota.
+  FOR EACH item IN inputList1{
+ IF (isFound (inputList2, item) )
+ APPEND (resultList, item)
+ }
+ Quali sono i contenuti più accurati di resultList dopo l'esecuzione del segmento di codice?",Tutti gli elementi in inputList1 seguiti da tutti gli elementi in inputList2,Solo gli elementi che appaiono sia in inputList1 che in inputList2,Solo gli elementi che compaiono in inputList1 o in inputList2 ma non in entrambe le liste,Solo gli elementi che compaiono in inputList1 ma non in inputList2,B
+Un programma è espresso in un linguaggio di programmazione. Quale delle seguenti affermazioni è vera per il programma?,"Il programma può anche essere espresso come codice binario, ma sarà più facilmente comprensibile per l'essere umano se espresso in un linguaggio di programmazione di più alto livello.","Il programma può anche essere espresso come codice binario, il che ridurrà la probabilità di errori.","Il programma non può essere espresso come codice binario, poiché il codice binario può essere usato solo per rappresentare dati.","Alcune parti del programma possono essere espresse come codice binario, ma le operazioni devono essere espresse utilizzando un linguaggio di programmazione di più alto livello.",A
+"In Python 3, quale è l'output di print tuple[0] se tuple = ( 'abcd', 786 , 2.23, 'john', 70.2 )?","( 'abcd', 786 , 2.23, 'john', 70.2 )",abcd,Errore,Nulla di quanto sopra.,B
+"Di seguito, quale dei possibili vantaggi è il meno probabile che venga fornito dal sistema aggiornato?",Non sarà necessario alcun rappresentante umano per rispondere ad alcune richieste.,L'azienda sarà in grado di fornire un rappresentante umano per qualsiasi chiamata in arrivo.,I clienti probabilmente trascorreranno meno tempo ad ascoltare informazioni non pertinenti al loro problema.,I clienti saranno incapaci di selezionare erroneamente il dipartimento sbagliato per il loro problema specifico.,B
+"Storicamente, è stato osservato che le velocità di elaborazione dei computer tendono a raddoppiare ogni due anni. Quale delle seguenti descrive meglio come le aziende tecnologiche possono utilizzare questa osservazione per scopi di pianificazione?",Le aziende tecnologiche possono prevedere con precisione le date in cui saranno disponibili nuove innovazioni informatiche da utilizzare.,Le aziende tecnologiche possono pianificare di raddoppiare i costi dei nuovi prodotti ogni volta che si verificano progressi nella velocità di elaborazione.,Le aziende tecnologiche possono stabilire obiettivi di ricerca e sviluppo in base alle velocità di elaborazione previste.,Le aziende tecnologiche possono dedicare meno sforzo allo sviluppo di nuovi processori perché la velocità di elaborazione migliorerà sempre al tasso osservato.,C
+"Un programmatore ha scritto il seguente programma. Il programma utilizza una lista di numeri chiamata numList. L'obiettivo del programma è visualizzare la somma dei numeri nella lista.
+ somma ← numList [1]
+ PER OGNI valore IN numList
+ somma ← somma + valore
+ VISUALIZZA somma
+ Per testare il programma, il programmatore inizializza numList con [0, 1, 4, 5]. Il programma visualizza 10 e il programmatore conclude che il programma funziona come previsto. Quale delle seguenti affermazioni è vera?",La conclusione è corretta; il programma funziona come previsto.,"La conclusione è scorretta; il programma non visualizza il valore corretto per il caso di test [0, 1, 4, 5].","La conclusione è scorretta; utilizzare il caso di test [0, 1, 4, 5] non è sufficiente per concludere che il programma sia corretto.","La conclusione è scorretta; utilizzando il caso di test [0, 1, 4, 5] si conferma soltanto che il programma funziona per liste in ordine crescente.",C
+Viene creata una simulazione al computer per simulare la crescita di una certa specie di pianta in diverse condizioni. Quali delle seguenti azioni potrebbero essere utilizzate per convalidare il modello utilizzato nella simulazione?,Esprimere il software di simulazione utilizzando sia algoritmi ricorsivi che iterativi. Confrontare i risultati dell'algoritmo ricorsivo con quelli dell'algoritmo iterativo.,Eseguire esperimenti reali sulla crescita della specie di pianta in diversi ambienti. Confrontare i risultati sperimentali con i risultati forniti dalla simulazione.,Rimuovere eventuali dettagli superflui dal modello. Confrontare i tempi di esecuzione della simulazione originale e della simulazione semplificata.,Eseguire il software di simulazione su più dispositivi. Confrontare i risultati ottenuti da ciascuno dei dispositivi.,B
+"La codifica di Huffman assegna codici univoci a lunghezza variabile ai valori di input in base alla frequenza di occorrenza di ogni valore. I valori che si presentano più frequentemente vengono assegnati a codici che contengono meno bit rispetto ai valori che si presentano meno frequentemente, che vengono assegnati a codici che contengono più bit. Qual è la descrizione migliore di un uso appropriato della codifica di Huffman?",Decodifica,Ordinamento efficiente,Compressione senza perdita di dati,Compressione con perdita di dati,C
+"In Python 3, quale delle seguenti funzioni controlla in una stringa che tutti i caratteri siano in maiuscolo?",isupper(),join(seq),len(string),"ljust(width[, fillchar])",A
+"Il frammento di codice qui sotto intende visualizzare ""odd"" se il numero positivo num è dispari.
+ IF (<CONDIZIONE MANCANTE>)
+ VISUALIZZA ""odd""
+
+ Quale delle seguenti può essere usata al posto di <CONDIZIONE MANCANTE> in modo che il frammento di codice funzioni come previsto?",(num MOD 1) = 0,(num MOD 1) = 1,(num MOD 2 ) = 0,(num MOD 2) = 1,D
+Un programmatore utilizza del codice pubblicato online con licenza Creative Commons Attribution (CCBY) in un prodotto commerciale. Quale delle seguenti opzioni descrive meglio un uso accettabile del codice?,Copiare il codice dalla fonte online nel prodotto del programmatore senza altre azioni,Copiare il codice dalla fonte online nel prodotto del programmatore e limitare il codice copiato a dieci righe di codice,Copiare il codice dalla fonte online nel prodotto del programmatore e cambiare tutti i nomi delle variabili,Copiare il codice dalla fonte online nel prodotto del programmatore e accreditare l'autore originale secondo le modalità indicate dalla licenza,D
+Una nuova banca ha come obiettivo prioritario la comodità del cliente riducendo al minimo il tempo di attesa in fila. La banca sta valutando due opzioni: una sola fila dove il cliente in testa attende il successivo cassiere disponibile o code separate per ogni cassiere. La banca decide di utilizzare una simulazione computerizzata di queste due opzioni per determinare il tempo medio di attesa dei clienti. Quale delle seguenti affermazioni NON è vera riguardo al piano della banca?,"La banca può incorporare altri fattori, come il numero dei cassieri, nella simulazione.",La banca può utilizzare la simulazione per investigare queste due opzioni senza causare inconvenienti ai clienti.,La banca può considerare nuove alternative basate sui risultati della simulazione.,La simulazione non produrrà risultati utilizzabili poiché i dati effettivi dei clienti non sono disponibili.,D
+Quale delle seguenti opzioni spiega meglio come i dati vengono tipicamente assemblati in pacchetti per la trasmissione su Internet?,"Ogni pacchetto contiene i dati da trasmettere, insieme a metadati contenenti informazioni utilizzate per il routing dei dati.","Ogni pacchetto contiene una versione crittografata dei dati da trasmettere, insieme a metadati contenenti la chiave necessaria per decrittare i dati.",Ogni pacchetto contiene solo i metadati utilizzati per stabilire una connessione diretta in modo che i dati possano essere trasmessi.,"Ogni pacchetto contiene più file di dati raggruppati insieme, insieme a metadati che descrivono come categorizzare ogni file di dati.",A
+Deve essere scritto un metodo per cercare in un array un valore che sia più grande di un determinato elemento e restituire il suo indice. La specifica del problema non indica quale sia il valore da restituire se ci sono diversi valori nell'array che soddisfano tale condizione. Quale delle seguenti azioni sarebbe la migliore?,Il metodo dovrebbe essere scritto supponendo che ci sia solo un valore nell'array che sia più grande dell'elemento dato.,Il metodo dovrebbe essere scritto per restituire l'indice di ogni occorrenza di un valore più grande.,La specifica dovrebbe essere modificata per indicare cosa fare se ci sono più indici di valori più grandi.,Il metodo dovrebbe essere scritto per emettere un messaggio se vengono trovati più di un valore più grande.,C
+"Qual è l'output della dichiarazione ""a"" + ""ab"" in Python 3?",Errore,aab,ab,a ab,B
+"In python 3, quale delle seguenti è la divisione intera (floor division)?",/,//,%,|,B
+Quale delle seguenti politiche scolastiche avrà probabilmente un impatto positivo sulla divisione digitale?,Una scuola consente agli studenti di portare una calcolatrice grafica da casa per completare gli esercizi di matematica in classe.,Una scuola consente agli studenti di portare un tablet computer in classe ogni giorno per partecipare a quiz valutati.,Una scuola fornisce un laptop o tablet computer a tutti gli studenti iscritti alla scuola.,Una scuola consiglia a tutti gli studenti di acquistare un computer con la massima velocità di elaborazione possibile in modo che i progetti vengano eseguiti più velocemente.,C
+"In un certo paese, una persona deve avere almeno 16 anni per guidare un'auto e deve avere almeno 18 anni per votare. La variabile età rappresenta l'età di una persona come un numero intero. Quale delle seguenti espressioni è vera se la persona è abbastanza vecchia da guidare ma non abbastanza vecchia da votare, e altrimenti è falsa?
+I. (età ≥ 16) E (età ≤ 18)
+II. (età ≥ 16) E (NON (età ≥ 18))
+III. (età < 18) E (NON (età < 16))",Solo II,Solo I e II,Solo I e III,Solo II e III,D
+"Un negozio online utilizza sequenze binarie a 6 bit per identificare ogni singolo articolo in vendita.
+Il negozio pianifica di aumentare il numero di prodotti in vendita e sta considerando di utilizzare sequenze binarie a 7 bit. Quale delle seguenti opzioni descrive meglio il risultato dell'utilizzo di sequenze a 7 bit invece di quelle a 6 bit?",È possibile identificare altri 2 articoli in modo univoco.,È possibile identificare altri 10 articoli in modo univoco.,È possibile identificare il doppio degli articoli in modo univoco.,È possibile identificare 10 volte più articoli in modo univoco.,C
+Quale dei seguenti programmi trarrebbe probabilmente maggior beneficio dall'uso di un euristico?,Un programma che calcola il voto di uno studente in base ai punteggi dei quiz e dei compiti a casa,Un programma che crittografa una cartella di file digitali,Un programma che trova il percorso di guida più breve tra due posizioni sulla mappa,Un programma che ordina una lista di numeri in ordine dall'inferiore al maggiore,C
+"Considera il seguente segmento di codice.
+ int num1 = value1, num2 = value2, num3 = value3;
+ while (num1 > num2 || num1 > num3)
+ {
+ /* corpo del ciclo */
+ }
+ Puoi assumere che value1, value2 e value3 siano valori int. Quale delle seguenti opzioni è sufficiente per garantire che il corpo del ciclo non verrà mai eseguito?",num1 < num2,num1 < num3,num1 > num2 && num1 > num3,num1 < num2 && num1 < num3,D
+"Due elenchi, list1 e list2, contengono i nomi dei libri trovati in due collezioni diverse. Un bibliotecario vuole creare newList, che conterrà i nomi di tutti i libri trovati in uno dei due elenchi, in ordine alfabetico, con le voci duplicate rimosse.
+
+Ad esempio, se 1ist1 contiene
+[""Macbeth"", ""Frankenstein"", ""Jane Eyre""]
+e 1ist2 contiene 
+[""Frankenstein"", ""Dracula, ""Macbeth"", ""Hamlet""],
+allora newList conterrà
+[""Dracula"", ""Frankenstein"", ""Hamlet"", ""Jane Eyre"", ""Macbeth""].
+
+Sono disponibili le seguenti procedure per creare newList.
+Procedura
+Spiegazione
+Sort (list)
+Ordina la lista in ordine alfabetico e restituisce la lista risultante.
+Combine (list1, list2)
+Crea una nuova lista composta dalle voci di list1 seguite dalle voci di list2. Viene restituita la lista risultante.
+RemoveDuplicates (list)
+Scorre la lista. Se due o più voci hanno lo stesso valore, le voci duplicate vengono rimosse in modo che ogni voce appaia al massimo una volta. Viene restituita la lista risultante.
+
+Quale dei segmenti di codice seguenti crea correttamente newList?","newList ← Combine (list1, list2)
+newList ← Sort (newList)
+newList ← RemoveDuplicates (newList)","list1 ← Sort (list1)
+list2 ← Sort (list2)
+newList ← Combine (list1, list2)
+newList ← RemoveDuplicates (newList)","list1 ← RemoveDuplicates (list1)
+list2 ← RemoveDuplicates (list2)
+newList ← Combine (list1, 1ist2)
+newList ← Sort (newList)","list1 ← RemoveDuplicates (list1)
+list1 ← Sort (list1)
+list2 ← RemoveDuplicates (list2)
+1ist2 ← Sort (list2)
+newList ← Combine (list1, list2)",A
+I nomi delle variabili Python sono case-sensitive?,Sì,No,Dipende dalla macchina,Nessuna delle precedenti,A
+"Un programma per computer utilizza 3 bit per rappresentare numeri interi. Quando il programma somma i numeri decimali (base 10) 5 e 3, il risultato è 0. Qual è la migliore spiegazione per questo risultato?",Si è verificato un errore di overflow.,Si è verificato un errore di arrotondamento.,Il risultato è stato influenzato dalla compressione dati lossy.,Il risultato è stato approssimato da una rappresentazione a virgola mobile.,A
+Qual è l'asintoto più grande?,O(1),O(n),O(n^2),O(log n),C
+"Un programmatore ha scritto il seguente segmento di codice per visualizzare la media di tutti gli elementi in un elenco chiamato numeri. C'è sempre almeno un numero nell'elenco.
+ Linea 1: count ← 0
+ Linea 2: sum ← 0
+ Linea 3: PER OGNI valore IN numeri
+ Linea 4: {
+ Linea 5: count ← count + 1
+ Linea 6: sum ← sum + valore
+ Linea 7: media ← somma / count
+ Linea 8: }
+ Linea 9: MOSTRA (media)
+
+ Il programmatore vuole ridurre il numero di operazioni eseguite durante l'esecuzione del programma. Quale cambiamento porterà a un programma corretto con un numero ridotto di operazioni eseguite?",Scambiare la linea 1 e la linea 2,Scambiare la linea 5 e la linea 6,Scambiare la linea 6 e la linea 7,Scambiare la linea 7 e la linea 8,D
+Sia i giornali online che i siti di social media vengono utilizzati per distribuire informazioni su Internet. Quale delle seguenti descrive meglio un vantaggio che i giornali online hanno rispetto ai siti di social media?,La capacità di distribuire informazioni istantaneamente,La capacità di fornire credibilità alle informazioni distribuite,La capacità di fornire informazioni ampiamente accessibili,La capacità di fornire contenuti multimediali a basso costo,B
+Un grande programma Java è stato testato approfonditamente e non sono stati trovati errori. Cosa si può concludere?,Tutte le precondizioni nel programma sono corrette.,Tutte le postcondizioni nel programma sono corrette.,Il programma potrebbe avere bug.,Ogni metodo nel programma può essere utilizzato in sicurezza in altri programmi.,C
+Qual è il valore di questa espressione Python: 1 + 3 % 3?,0,1,3,4,B
+"Ogni studente che si iscrive a una scuola viene assegnato un numero ID univoco, che viene memorizzato come numero binario. Gli ID aumentano in modo sequenziale di 1 con ogni nuovo studente iscritto. Se il numero di ID assegnato all'ultimo studente che si è iscritto era il numero binario 1001 0011, quale numero binario verrà assegnato allo studente successivo che si iscrive?",1001 0100,1001 0111,1101 0100,1101 0111,A
+"In Python 3, quale degli operatori seguenti esegue il calcolo esponenziale (potenza) sugli operandi?",**,//,is,not in,A
+Qual è la rappresentazione esadecimale del numero decimale 231_{10} ?,17_{16},E4_{16},E7_{16},F4_{16},C
+Quale delle seguenti funzioni di foglio elettronico sarebbe più utile per rilevare valori troppo alti o troppo bassi che sono diventati parte di un set di dati a seguito di errori di inserimento dati?,Una funzione che calcola la media dei valori numerici in una colonna o riga,Una funzione che conta i valori in una colonna o riga,Una funzione che arrotonda un valore numerico,Una funzione che ordina i valori in una colonna o riga,D
+"Come è possibile migliorare la velocità di gioco di un certo gioco informatico giocato tra un giocatore umano e uno controllato dal computer, dove ogni volta che è il turno del giocatore controllato dal computer, il gioco si svolge lentamente perché il computer valuta tutte le possibili mosse e seleziona la migliore?",La velocità di gioco può essere migliorata solo se il gioco viene giocato tra due giocatori umani invece che con il giocatore controllato dal computer.,La velocità di gioco potrebbe essere migliorata utilizzando un processo che trova soluzioni approssimative ogni volta che è il turno del giocatore controllato dal computer.,La velocità di gioco non può essere migliorata perché i computer possono essere programmati solo per trovare la soluzione migliore possibile.,La velocità di gioco non può essere migliorata perché il gioco è un esempio di un algoritmo che non si svolge in un tempo ragionevole.,B
+"In Python 3, qual è l'output di print list[1:3] se list = [ 'abcd', 786 , 2.23, 'john', 70.2 ]?","[ 'abcd', 786 , 2.23, 'john', 70.2 ]",abcd,"[786, 2.23]",Nessuna delle precedenti.,C
+"Considera il seguente segmento di codice.
+ Linea 1: IF (a = 0)
+ Linea 2: {
+ Linea 3: b ← a + 10
+ Linea 4: }
+ Linea 5: ELSE
+ Linea 6: {
+ Linea 7: b ← a + 2O
+ Linea 8: }
+ Quali delle seguenti modifiche NON influiranno sui risultati quando il segmento di codice viene eseguito?",Cambiare la linea 3 in b ← 10,Cambiare la linea 3 in a ← b + 10,Cambiare la linea 7 in b ← 20,Cambiare la linea 7 in a ← b + 10,A
+"Qual è il numero massimo di elementi che devono essere esaminati per cercare il valore 100 in una lista ordinata di 120 interi, utilizzando l'algoritmo di ricerca più efficiente?",7,8,20,100,A
+Quali delle seguenti affermazioni è corretta riguardo a Python?,Supporta la raccolta automatica dei rifiuti.,"Può essere facilmente integrato con C, C++, COM, ActiveX, CORBA e Java.",Entrambe le precedenti.,Nessuna delle precedenti.,C
+Quale è il risultato di x>>1 in Python 3 se x=8?,3,4,2,8,B
+"Di quanti bit (cifre binarie) avremmo bisogno per rappresentare un colore nel modello di colore RGB (Rosso, Verde, Blu), che memorizza i valori per rosso, verde e blu, ognuno compreso tra 0 e 255?",8,16,24,32,C
+L'espressione booleana a[i] == max || !(max != a[i]) può essere semplificata in,a[i] == max,a[i] != max,a[i] < max || a[i] > max,FALSO,A
+Un programmatore sta decidendo se utilizzare una ricerca lineare o binaria per trovare un valore target in una lista ordinata. Quale delle seguenti affermazioni è vera?,"In tutti i casi, una ricerca binaria di una lista ordinata richiede meno confronti rispetto a una ricerca lineare.","Generalmente, il vantaggio nell'utilizzare una ricerca binaria rispetto a una ricerca lineare aumenta all'aumentare delle dimensioni della lista.",Una ricerca lineare generalmente esegue più velocemente di una ricerca binaria perché una ricerca lineare richiede meno righe di codice per essere implementata.,Utilizzare una ricerca lineare è preferibile rispetto a una ricerca binaria se c'è una possibilità che il target non sia presente nella lista.,B
+Quali tipi di funzioni crescono più lentamente?,O(log e^N),O(log N),O(log log N),O(N),C
+"Uno studente sta registrando una canzone sul suo computer. Quando la registrazione è terminata, salva una copia sul suo computer. Lo studente nota che la copia salvata ha una qualità del suono inferiore rispetto alla registrazione originale. Quale delle seguenti potrebbe essere una possibile spiegazione per la differenza di qualità del suono?",La canzone è stata salvata utilizzando meno bit al secondo rispetto alla canzone originale.,La canzone è stata salvata utilizzando più bit al secondo rispetto alla canzone originale.,La canzone è stata salvata utilizzando una tecnica di compressione senza perdita di dati.,Viene persa parte delle informazioni ogni volta che un file viene salvato da una posizione all'altra su un computer.,A
+"In Python 3, quale funzione restituisce l'elemento della lista con valore massimo?",cmp(list),len(list),max(list),min(list),C
+Qual è l'asintoto più piccolo?,O(1),O(n),O(n^2),O(log n),A
+Qual è il meno probabile indicatore di un attacco di phishing?,Un'e-mail dalla tua banca ti chiede di chiamare il numero sulla tua carta per verificare una transazione,Un'e-mail da un commerciante chiede di fare clic su un link per reimpostare la password,Un'e-mail da una società di servizi pubblici ti chiede di inserire la tua data di nascita e il tuo numero di previdenza sociale per scopi di verifica,Un'e-mail indica che hai vinto una grossa somma di denaro e chiede di inserire il numero del tuo conto bancario in modo che il denaro possa essere trasferito a te,A
+"L'algoritmo qui sotto viene utilizzato per simulare i risultati del lancio di una moneta 4 volte. Considera l'obiettivo di determinare se la simulazione ha prodotto un numero uguale di testa e croce.
+
+   Passo 1: Inizializza le variabili heads_counter e flip_counter a 0.
+   Passo 2: Una variabile coin_flip è assegnata casualmente un valore di 0 o 1. Se coin_flip ha il valore 0, il risultato del lancio della moneta è testa, quindi heads_counter viene incrementato di 1.
+   Passo 3: Incrementa il valore di flip_counter di 1.
+   Passo 4: Ripeti i passaggi 2 e 3 fino a quando flip_counter non è uguale a 4.
+
+Dopo l'esecuzione dell'algoritmo, quale delle seguenti espressioni indica che la simulazione ha prodotto un numero uguale di testa e croce?",coin_f1ip = 1,flip_counter = 1,flip_counter = 2,heads_counter = 2,D
+Quale pilastro della sicurezza informatica viene compromesso quando qualcuno accede ad un sistema utilizzando un login e password rubati?,Autenticazione,Riservatezza,Integrità,Non ripudio,A
+"La seguente procedura è destinata a restituire il numero di volte in cui il valore ""val"" appare nella lista ""myList"". La procedura non funziona come previsto.
+ Riga 1: PROCEDURE countNumOccurences(myList, val)
+ Riga 2: {
+ Riga 3: PER OGNI elemento IN myList
+ Riga 4: {
+ Riga 5: count 0
+ Riga 6: SE (elemento = val)
+ Riga 7: {
+ Riga 8: count count + 1
+ Riga 9: }
+ Riga 10: }
+ Riga 11: RETURN(count)
+ Riga 12:}
+ Quali delle seguenti modifiche possono essere apportate affinché la procedura funzioni come previsto?",Cambiare la riga 6 in SE (elemento = count),Cambiare la riga 6 in SE (myList[elemento] = val),Spostare l'istruzione nella riga 5 in modo che appaia tra le righe 2 e 3,Spostare l'istruzione nella riga 11 in modo che appaia tra le righe 9 e 10,C
+Qual è una vera affermazione sulla documentazione del programma?,La documentazione del programma non dovrebbe essere modificata dopo la prima stesura.,La documentazione del programma è necessaria solo per i programmi in fase di sviluppo; non è necessaria dopo che un programma è completato.,La documentazione del programma è utile quando i programmatori collaborano ma non quando un programmatore lavora individualmente su un progetto.,La documentazione del programma è utile durante lo sviluppo iniziale del programma e anche quando vengono apportate modifiche ai programmi esistenti.,D
+"Considera i seguenti tre scenari, che potrebbero essere modellati utilizzando tre strutture dati: dizionario/mappa, coda e pila. Scenario 1: Le auto si allineano in una singola corsia presso un autolavaggio. Quando ogni guidatore raggiunge l'ingresso dell'autolavaggio, scende dall'auto. Una carrucola automatica muove l'auto attraverso l'autolavaggio mentre il guidatore si dirige all'uscita dell'autolavaggio per pagare e ritirare l'auto. Scenario 2: I concorrenti che si presentano a un talent show televisivo ricevono un ID numerico univoco dopo aver completato un modulo di registrazione. Scenario 3: Le palline da tennis sono vendute in una lattina cilindrica che può contenere un massimo di 3 palline, dove ogni pallina ad eccezione di quella inferiore poggia sulla pallina sottostante. Le 3 palline vengono inserite nella lattina una alla volta attraverso un'apertura nella parte superiore della lattina. Le 3 palline vengono poi rimosse dalla lattina una alla volta attraverso la stessa apertura. Quale delle seguenti opzioni mostra le strutture dati che meglio rappresentano gli scenari? Scenario 1 | Scenario 2 | Scenario 3",Dizionario/mappa | Coda | Pila,Dizionario/mappa | Pila | Coda,Coda | Dizionario/mappa | Pila,Pila | Coda | Dizionario/mappa,C
+"Qual è il valore minimo di l = [1,2,3,4] in Python3?",1,2,3,4,A
+"Qual è il valore massimo di una lista l = [1,2,3,4] in Python3?",1,2,3,4,D
+Quali delle seguenti opzioni è una caratteristica della natura tollerante ai guasti del routing su Internet?,La capacità di utilizzare un sistema di denominazione gerarchico per evitare conflitti di denominazione,La capacità di fornire la trasmissione dei dati anche quando alcune connessioni sono fallite,La capacità di risolvere gli errori nelle ricerche del sistema di denominazione a dominio (DNS),"La capacità di utilizzare più protocolli come il protocollo di trasferimento ipertestuale (HTTP), il protocollo Internet (LP) e il protocollo di trasferimento della posta semplice (SMTP) per trasferire dati",B
+"Considera i seguenti numeri.
+   ° Binario 1100
+   ° Decimale 11
+   ° Esadecimale D
+ Quale delle seguenti elenca i numeri in ordine crescente?","Binario 1100, Decimale 11, Esadecimale D","Decimale 11, Binario 1100, Esadecimale D","Decimale 11, Esadecimale D, Binario 1100","Esadecimale D, Decimale 11, Binario 1100",B
+Qual è il ruolo del compilatore nel processo di sviluppo del software eseguibile?,Gestione dei file di specifica creati come parte del processo di sviluppo,Esecuzione e test dell'eseguibile creato dal programmatore,Tracciamento delle versioni precedenti del software nel caso in cui si trovi un errore e il software debba essere ripristinato in una forma precedente,Tradurre un programma scritto in un linguaggio astratto ad alto livello in un programma con lo stesso comportamento espresso in codice macchina,D
+Qual è la preoccupazione più probabile per la privacy dei dati del sistema aggiornato?,Le informazioni personali dei clienti potrebbero essere compromesse se un individuo non autorizzato ottiene accesso al database della sessione di chiamata.,La memorizzazione delle informazioni nel database delle sessioni di chiamata rende facile per gli individui cercare di ingannare il sistema utilizzando link maligni.,Il design del sistema aumenta la possibilità che i clienti installino involontariamente malware sui loro dispositivi che condividerà i loro dati con individui non autorizzati.,Il design del sistema rende facile per individui non autorizzati acquisire le chiavi di crittografia private dei clienti.,A
+"Qual è l'output di ""abc""[-1] in Python 3?",Errore,a,b,c,D
+"Verrà utilizzato un algoritmo per identificare il valore massimo in una lista di uno o più interi. Considerate le due versioni dell'algoritmo di seguito.
+
+Algoritmo I: Impostare il valore di una variabile max a -1. Iterare attraverso la lista di valori interi. Se il valore dei dati è maggiore del valore della variabile max, impostare max sul valore dei dati.
+Algoritmo II: Impostare il valore di una variabile max al primo valore di dati. Iterare attraverso i valori rimanenti nella lista degli interi. Se un valore dei dati è maggiore del valore della variabile max, impostare max sul valore dei dati.
+
+Quale delle seguenti affermazioni descrive meglio il comportamento dei due algoritmi?",Entrambi gli algoritmi funzionano correttamente su tutti i valori di input.,"L'algoritmo I funziona sempre correttamente, ma l'algoritmo II funziona correttamente solo quando il valore massimo non è il primo valore nella lista.","L'algoritmo II funziona sempre correttamente, ma l'algoritmo I funziona correttamente solo quando il valore massimo è maggiore o uguale a -1.",Nessuno degli algoritmi identificherà correttamente il valore massimo quando l'input contiene sia valori positivi che negativi.,D
+"Considera la seguente variabile di istanza e i metodi nella stessa classe.
+ private int[][] matrix;
+ /** Precondizione: array.length > 0.
+ * @return il numero intero più grande in array
+ */
+ private int max(int[] array)
+ { /* implementazione non mostrata */ }
+ /** @return num1 se num1 >= num2; altrimenti restituisci num2
+ */
+ public int max(int num1, int num2)
+ { /* implementazione non mostrata */ }
+ Supponiamo che matrix abbia un valore corrente di
+ 2 1 4 8
+ 6 0 3 9
+ 5 7 7 6
+ 1 2 3 4
+ Cosa verrà restituito dalla seguente chiamata di metodo nella stessa classe?
+ max(max(matrix[2]), max(matrix[3]))",9,8,7,4,C
+Qual è il valore di questa espressione python: 4 + 3 % 2?,1,6,4,5,D
+"Airmail Express addebita le spedizioni di piccoli pacchi per valori interi di peso. Le spese per un peso w in libbre sono le seguenti:
+0 < w ≤ 2 $4,00
+2 < w ≤ 5 $8,00
+5 < w ≤ 20 $15,00
+L'azienda non accetta pacchi che pesano più di 20 libbre. Quale delle seguenti rappresenta il miglior set di dati (pesi) per testare un programma che calcola le spese di spedizione?","0, 2, 5, 20","1, 4, 16","-1, 1, 2, 3, 5, 16, 20","-1, 0, 1, 2, 3, 5, 16, 20, 22",D
+"Nel programma sottostante, y è un numero intero positivo (ad esempio, l, 2, 3, ...).
+risultato ← 0
+RIPETI 3 VOLTE {
+RIPETI y VOLTE {
+risultato ← risultato + 1
+}
+}",y+3,3y,y^3,3^y,B
+"Un programmatore sta progettando un programma per catalogare tutti i libri in una biblioteca. Ha intenzione di avere una classe Book che memorizza le caratteristiche di ogni libro: autore, titolo, isOnShelf e così via, con operazioni come getAuthor, getTitle, getShelfInfo e setShelfInfo. Un'altra classe, LibraryList, memorizzerà un array di oggetti Book. La classe LibraryList includerà operazioni come listAllBooks, addBook, removeBook e searchForBook. Il programmatore ha intenzione di implementare e testare prima la classe Book, prima di implementare la classe LibraryList. Il piano del programmatore di scrivere prima la classe Book è un esempio di",Sviluppo top-down,Sviluppo bottom-up,Procedurale di astrazione,Nascondere le informazioni,B
+"Cosa restituisce la funzione sum(l) in Python3, se l = [1,2,3,4]?",4,1,10,8,C
+Un sito web utilizza diverse strategie per impedire a persone non autorizzate di accedere agli account degli utenti. Quale delle seguenti NON è un esempio di autenticazione a più fattori?,"Ogni dipendente di un'azienda riceve un dispositivo USB che contiene un codice di token unico. Per accedere a un computer aziendale, l'utente deve inserire il dispositivo USB nel computer e fornire una password corretta.","Dopo l'accesso a un account da un nuovo dispositivo, l'utente deve inserire un codice inviato via e-mail all'indirizzo e-mail indicato nell'account.","Per accedere a un account, l'utente deve fornire sia una password che un'impronta digitale acquisita dal dispositivo dell'utente.","Quando un utente inserisce una password errata più di due volte di seguito, l'utente viene bloccato nell'account per 24 ore.",D
+"Qual è la procedura per visualizzare l'indice in una lista di nomi unici (nameList) in cui viene trovato un nome specifico (targetName)? Se targetName non viene trovato in nameList, il codice deve mostrare 0.
+ PROCEDURA TrovaNome (nameList, targetName)
+ {
+  indice ← 0
+  PER OGNI nome IN nameList
+  {
+   indice ← indice + 1
+   SE (nome = targetName)
+   {
+   foundIndex ← indice
+   }
+   ALTRIMENTI
+   {
+   foundIndex ← 0
+   }
+  }
+  VISUALIZZA (foundIndex)
+ }
+ Quale delle seguenti chiamate di procedura può essere utilizzata per dimostrare che la procedura NON funziona come previsto?","TrovaNome ([""Andrea"", ""Ben""], ""Ben"")","TrovaNome ([""Andrea"", ""Ben""], ""Diane"")","TrovaNome ([""Andrea"", ""Ben"", ""Chris""], ""Ben"")","TrovaNome ([""Andrea"", ""Chris"", ""Diane""], ""Ben"")",C
+"Questa domanda si basa sulle seguenti dichiarazioni: String strA = ""CARROT"", strB = ""Carrot"", strC = ""car""; Dato che tutte le lettere maiuscole precedono tutte le lettere minuscole quando si considera l'ordine alfabetico, quale è vero?",strA.compareTo(strB) < 0 && strB.compareTo(strC) > 0,strC.compareTo(strB) < 0 && strB.compareTo(strA) < 0,strB.compareTo(strC) < 0 && strB.compareTo(strA) > 0,!(strA.compareTo(strB) == 0) && strB.compareTo(strA) < 0,C
+"Nella procedura Mystery qui sotto, il parametro number è un numero intero positivo.
+
+ PROCEDURA Mystery (number)
+ {
+  RIPETI FINCHÉ (number <= 0)
+  {
+   number ← number - 2
+  }
+  SE (number = 0)
+  {
+   RESTITUISCE (vero)
+  }
+  ALTRIMENTI
+  {
+   RESTITUISCE (falso)
+  }
+ }
+
+ Quale delle seguenti opzioni descrive meglio il risultato della procedura Mystery?","La procedura restituisce vero quando il valore iniziale di number è 2, altrimenti restituisce falso.","La procedura restituisce vero quando il valore iniziale di number è maggiore di 2, altrimenti restituisce falso.","La procedura restituisce vero quando il valore iniziale di number è pari, altrimenti restituisce falso.","La procedura restituisce vero quando il valore iniziale di number è dispari, altrimenti restituisce falso.",C
+"Deve essere scritta una classe Insetto, contenente i seguenti campi dati: età, che verrà inizializzata a 0 quando un Insetto viene costruito. nextAvailableID, che verrà inizializzato a 0 al di fuori del costruttore e incrementato ogni volta che viene costruito un Insetto. idNum, che verrà inizializzato al valore corrente di nextAvailableID quando viene costruito un Insetto. posizione, che verrà inizializzata alla posizione in un giardino dove viene collocato l'Insetto quando viene costruito. direzione, che verrà inizializzata alla direzione in cui l'Insetto si trova quando viene collocato nel giardino. Quale variabile nella classe Insetto dovrebbe essere statica?",età,nextAvailableID,idNum,posizione,B
+Una lista ordinata di numeri contiene 500 elementi. Quale delle seguenti opzioni si avvicina di più al massimo numero di elementi della lista che verranno esaminati nel caso di una ricerca binaria per un valore nella lista?,10,50,250,500,A
+"In Python 3, quale delle seguenti funzioni imposta il valore iniziale intero utilizzato nella generazione di numeri casuali?",choice(seq),"randrange ([start,] stop [,step])",random(),seed([x]),D
+"In Python 3, qual è l'output di ['Hi!'] * 4?","['Hi!', 'Hi!', 'Hi!', 'Hi!']",['Hi!'] * 4,Errore,Nessuna delle opzioni sopra.,A
+"Considerare le seguenti ipotesi sulla conservazione elettronica del testo di tutti i libri delle biblioteche di un'università. - Le biblioteche dell'università contengono collettivamente 3 milioni di libri. - Un libro contiene in media 400 pagine. - Una pagina contiene in media 50 righe. - Una riga su una pagina contiene in media 10 parole. - Una parola contiene in media 5 lettere / caratteri. - Una lettera / carattere è rappresentata da 1 byte. Sulla base delle ipotesi fornite, in quale unità sarebbe meglio misurare la memoria elettronica richiesta per il testo di tutti i libri delle biblioteche dell'università?",Megabyte (2^20 o approssimativamente 10^6 byte),Gigabyte (2^30 o approssimativamente 10^9 byte),Terabyte (2^40 o approssimativamente 10^12 byte),Petabyte (2^50 o approssimativamente 10^15 byte),C
+"Una ricerca web ha una funzione di tracciamento delle tendenze che fornisce informazioni su quanto sia popolare un termine di ricerca. I dati possono essere filtrati per regione geografica, data e categoria. Le categorie includono arte e intrattenimento, computer ed elettronica, giochi, notizie, persone e società, shopping, sport e viaggi. Quale delle seguenti domande è meno probabile che sia rispondibile tramite la funzione delle tendenze?",In quale mese uno sport in particolare riceve più ricerche?,In quali candidati politici le persone sono interessate?,Qual è il costo di un certo prodotto di elettronica?,In quale regione del paese c'è il maggior numero di persone che cercano performance d'opera?,C
+"In Python 3, cosa rappresenta ['a', 'Chemistry', 0, 1][1]?",a,Chemistry,0,1,B
+Qual è la differenza principale tra un attacco distribuito di negazione del servizio (D D o S) e un attacco di negazione del servizio (D o S)?,L'obiettivo dell'attacco,Il numero di computer attaccati,Il numero di computer che lanciano l'attacco,Il periodo di tempo in cui si verifica l'attacco,C
+Quale delle seguenti opzioni ha il maggior potenziale per compromettere la privacy personale di un utente?,Un gruppo di cookie memorizzati dal browser Web dell'utente,L'indirizzo del Protocollo Internet (IP) del computer dell'utente,L'indirizzo email dell'utente,La chiave pubblica dell'utente utilizzata per la crittografia,A
+Quale delle seguenti spiega meglio cosa succede quando un nuovo dispositivo viene collegato ad Internet?,Viene assegnato al dispositivo un driver di periferica.,Viene assegnato al dispositivo un indirizzo di protocollo Internet (IP).,Viene assegnato al dispositivo un numero di pacchetto.,Viene assegnato al dispositivo un sito Web.,B
+"Se a, b e c sono interi, quale delle seguenti condizioni è sufficiente per garantire che l'espressione a < c || a < b && !(a == c) valuti a vero?",a < c,a < b,a > b,a == b,A
+"Qual è un possibile output della funzione set(l) in Python3, dove l = [1,2,2,3,4]?",{1},"{1,2,2,3,4}","{1,2,3,4}","{4,3,2,2,1}",C
+"Un rivenditore che vende calzature mantiene un singolo database contenente record con le seguenti informazioni su ogni articolo in vendita nel negozio del rivenditore.
+
+   ° Numero di identificazione dell'articolo
+   ° Tipo di calzature (sneakers, stivali, sandali, etc.)
+   ° Prezzo di vendita (in dollari)
+   ° Misura
+   ° Colore
+   ° Quantità disponibile
+
+ Utilizzando solo il database, quale delle seguenti informazioni può essere determinata?",Quali articoli elencati nel database non sono attualmente presenti nel negozio,Quali colori sono più popolari tra gli uomini che tra le donne,Quale tipo di calzature è più popolare tra gli adulti,Il numero totale di scarpe vendute in un determinato mese,A
+Qual è l'output di 4*1**4 in python?,4,1,256,16,A
+"Qual è l'espressione che soddisfa sempre la postcondizione per il seguente metodo 'nextIntInRange'?
+/** @return un intero casuale nell'intervallo da basso a alto, incluso */
+public int nextIntInRange(int low, int high)
+{
+    return /* espressione */
+}",(int) (Math.random() * high) + low;,(int) (Math.random() * (high - low)) + low;,(int) (Math.random() * (high - low + 1)) + low;,(int) (Math.random() * (high + low)) + low;,C
+"In Python 3, b = [11,13,15,17,19,21]; print(b[::2]) cosa stampa?","[19,21]","[11,15]","[11,15,19]","[13,17,21]",C
+"Qual è l'algoritmo per trovare la media di N numeri, dove media = somma / N, dove N e somma sono entrambi numeri interi. In un programma che utilizza questo algoritmo, un programmatore ha dimenticato di includere un test per verificare se N è uguale a zero. Se N è zero, quando verrà rilevato l'errore?",Alla compilazione,Durante la modifica del codice,Non appena il valore di N viene inserito,Durante l'esecuzione del programma,D
+"Una lunga lista di numeri deve essere ordinata in modo crescente. Presumendo che uno “spostamento di dati” sia uno scambio o un riassegnamento di un elemento, quale delle seguenti affermazioni è vera?","Se l'array è inizialmente ordinato in ordine decrescente, l'insertion sort sarà più efficiente della selection sort.",Il numero di confronti per la selection sort è indipendente dall'organizzazione iniziale degli elementi.,Il numero di confronti per l'insertion sort è indipendente dall'organizzazione iniziale degli elementi.,Il numero di spostamenti di dati nella selection sort dipende dall'organizzazione iniziale degli elementi.,B
+"Considera il seguente segmento di codice, che utilizza le variabili r, s e t.
+  r ← 1
+   s ← 2
+   t ← 3
+   r ← s
+   s ← t
+   VISUALIZZA (r)
+   VISUALIZZA (s)
+
+ Cosa viene visualizzato come risultato dell'esecuzione del segmento di codice?",1 1,1 2,2 3,3 2,C
+"Un file di foto digitali contiene dati che rappresentano il livello di rosso, verde e blu per ogni pixel della foto. Il file contiene anche metadati che descrivono la data e la posizione geografica dove è stata scattata la foto. Per quale dei seguenti obiettivi sarebbe più appropriato analizzare i metadati anziché i dati?",Stabilire la probabilità che la foto sia un'immagine del cielo,Stabilire la probabilità che la foto sia stata scattata durante un determinato evento pubblico,Determinare il numero di persone che appaiono nella foto,Stabilire l'utilizzabilità della foto per la proiezione su uno sfondo di un determinato colore,B
+"In Python 3, cos'è ['a', 'Chemistry', 0, 1][-3]?",a,Chemistry,0,1,B
+Due computer sono costruiti da produttori differenti. Uno sta eseguendo un server Web e l'altro un browser Web. Quale delle seguenti descrive meglio la capacità dei due computer di comunicare tra loro su Internet?,I computer non possono comunicare perché i produttori diversi usano protocolli di comunicazione diversi.,"I computer possono comunicare, ma è necessaria dell'hardware aggiuntivo per convertire i pacchetti dati dal protocollo di un computer a quello dell'altro.",I computer possono comunicare direttamente solo se i messaggi sono composti da testo; altri formati non possono essere interpretati tra i computer.,I computer possono comunicare direttamente perché la comunicazione su Internet utilizza protocolli standard.,D
+Quali di queste attività presenta il maggior rischio di sicurezza informatica personale?,Eseguire un acquisto presso un negozio online che utilizza la crittografia a chiave pubblica per trasmettere le informazioni della carta di credito,Pagare una bolletta utilizzando un sistema di pagamento elettronico sicuro,Prenotare una camera d'albergo inviando via e-mail un numero di carta di credito ad un hotel,Prelievo di denaro da un conto bancario utilizzando un bancomat (ATM),C

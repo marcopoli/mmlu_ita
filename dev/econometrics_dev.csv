@@ -1,0 +1,17 @@
+"Per un processo autoregressivo stazionario, gli shock",Inevitabilmente scompariranno,Perseguiteranno indefinitamente,Cresceranno in modo esponenziale,Non si verificheranno mai,A
+"Considera il seguente modello AR(1) con i disturbi aventi media nulla e varianza unitaria 
+
+yt = 0.2 + 0.4 yt-1 + ut
+
+La media (condizionata) di y sarà data da",0.2,0.4,0.5,0.33,D
+"Supponiamo che una statistica di test abbia associato un valore-p di 0,08. Quale delle seguenti affermazioni è vera?
+
+(i) Se la dimensione del test fosse esattamente dell'8%, saremmo indifferenti tra il rifiuto e la non accettazione dell'ipotesi nulla
+
+(ii) L'ipotesi nulla sarebbe rifiutata se venisse utilizzata una dimensione del test del 10%
+
+(iii) L'ipotesi nulla non sarebbe rifiutata se venisse utilizzata una dimensione del test del 1%
+
+(iv) L'ipotesi nulla sarebbe rifiutata se venisse utilizzata una dimensione del test del 5%.",(ii) e (iv) solamente,(i) e (iii) solamente,"(i), (ii), e (iii) solamente","(i), (ii), (iii), e (iv)",C
+Quali sarebbero le conseguenze per l'OLS estimator se è presente l'eteroschedasticità in un modello di regressione ma viene ignorata?,Sarebbe distorto,Sarebbe inconsistente,Sarebbe inefficiente,Tutte le precedenti risposte sono vere.,C
+"Supponiamo ora che un ricercatore desideri utilizzare i criteri di informazione per determinare la lunghezza del ritardo ottimale per un VAR. Sono disponibili 500 osservazioni per il VAR bi-variato e i valori del determinante della matrice di varianza-covarianza dei residui sono 0,0336, 0,0169, 0,0084 e 0,0062 per 1, 2, 3 e 4 ritardi rispettivamente. Qual è l'ordine del modello ottimale secondo il criterio di informazione di Akaike?",1 ritardo,2 ritardi,3 ritardi,4 ritardi,C

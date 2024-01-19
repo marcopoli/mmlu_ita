@@ -1,0 +1,5 @@
+Trovare tutti i valori di c in Z_3 per cui Z_3[x]/(x^2 + c) è un campo.,0,1,2,3,B
+"Affermazione 1 | Se aH è un elemento di un gruppo fattoriale, allora |aH| divide |a|. Affermazione 2 | Se H e K sono sottogruppi di G, allora HK è un sottogruppo di G.","Vero, Vero","Falso, Falso","Vero, Falso","Falso, Vero",B
+Affermazione 1 | Ogni elemento di un gruppo genera un sottogruppo ciclico del gruppo. Affermazione 2 | Il gruppo simmetrico S_10 ha 10 elementi.,"Vero, Vero","Falso, Falso","Vero, Falso","Falso, Vero",C
+Affermazione 1 | Ogni funzione da un insieme finito su se stesso deve essere una ad una. Affermazione 2 | Ogni sottogruppo di un gruppo abeliano è abeliano.,"vero, vero","falso, falso","vero, falso","falso, vero",A
+Trovare la caratteristica del anello 2Z.,0,3,12,30,A
